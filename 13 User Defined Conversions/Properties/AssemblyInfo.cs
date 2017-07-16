@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Inside C Sharp")]
+[assembly: AssemblyTitle("13 User Defined Conversions")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Inside C Sharp")]
+[assembly: AssemblyProduct("13 User Defined Conversions")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c1c8e303-286d-498c-80cc-d7a31c6eb047")]
+[assembly: Guid("39a15c3d-ce3f-4b07-bb38-5df322330ec0")]
 
 // Version information for an assembly consists of the following four values:
 //

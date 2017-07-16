@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inside C Sharp", "Inside C Sharp\Inside C Sharp.csproj", "{C1C8E303-286D-498C-80CC-D7A31C6EB047}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator Overloading", "Operator Overloading\Operator Overloading.csproj", "{20C52F70-22CA-498F-BAB4-6DEC1EC5279D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 User Defined Conversions", "13 User Defined Conversions\13 User Defined Conversions.csproj", "{39A15C3D-CE3F-4B07-BB38-5DF322330EC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C1C8E303-286D-498C-80CC-D7A31C6EB047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1C8E303-286D-498C-80CC-D7A31C6EB047}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1C8E303-286D-498C-80CC-D7A31C6EB047}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1C8E303-286D-498C-80CC-D7A31C6EB047}.Release|Any CPU.Build.0 = Release|Any CPU
 		{20C52F70-22CA-498F-BAB4-6DEC1EC5279D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{20C52F70-22CA-498F-BAB4-6DEC1EC5279D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20C52F70-22CA-498F-BAB4-6DEC1EC5279D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20C52F70-22CA-498F-BAB4-6DEC1EC5279D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A15C3D-CE3F-4B07-BB38-5DF322330EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A15C3D-CE3F-4B07-BB38-5DF322330EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A15C3D-CE3F-4B07-BB38-5DF322330EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A15C3D-CE3F-4B07-BB38-5DF322330EC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

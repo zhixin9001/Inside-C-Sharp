@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C1C8E303-286D-498C-80CC-D7A31C6EB047}</ProjectGuid>
+    <ProjectGuid>{39A15C3D-CE3F-4B07-BB38-5DF322330EC0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Inside_C_Sharp</RootNamespace>
-    <AssemblyName>Inside C Sharp</AssemblyName>
+    <RootNamespace>_13_User_Defined_Conversions</RootNamespace>
+    <AssemblyName>13 User Defined Conversions</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
