@@ -10,6 +10,16 @@ namespace _13_User_Defined_Conversions
   {
     static void Main(string[] args)
     {
+      float t;
+      t = 98.6F;
+      Console.Write("{0} to Celsius=",t);
+      Console.WriteLine((Celsius)t);
+
+      t = 0.6F;
+      Console.Write("{0} to Fahrenheit=", t);
+      Console.WriteLine((Fahrenheit)t);
+
+      Console.ReadKey();
     }
   }
 }
