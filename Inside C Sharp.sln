@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13 User Defined Conversions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17 Unmanaged Code", "17 Unmanaged Code\17 Unmanaged Code.csproj", "{D75894CD-4534-4619-8DAE-14BE7AC5B6DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 Indexer", "7 Indexer\7 Indexer.csproj", "{2EBB4ADA-65B2-4162-9618-5C5BC713B04A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D75894CD-4534-4619-8DAE-14BE7AC5B6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D75894CD-4534-4619-8DAE-14BE7AC5B6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D75894CD-4534-4619-8DAE-14BE7AC5B6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBB4ADA-65B2-4162-9618-5C5BC713B04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBB4ADA-65B2-4162-9618-5C5BC713B04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBB4ADA-65B2-4162-9618-5C5BC713B04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBB4ADA-65B2-4162-9618-5C5BC713B04A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
