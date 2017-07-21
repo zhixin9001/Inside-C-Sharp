@@ -17,11 +17,11 @@ namespace Operator_Overloading
 
     public void PrintInvoice()
     {
-      Console.WriteLine("\nLine Nbr\tTotal");
+      Console.WriteLine("\nLine\tTotal");
       int i = 1;
       foreach (InvoiceDetailLine item in DetailLines)
       {
-        Console.WriteLine("{0}\t\t{1}", i++, item.LineTotal);
+        Console.WriteLine("{0}\t{1}", i++, item.LineTotal);
       }
     }
 

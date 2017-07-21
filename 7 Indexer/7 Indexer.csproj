@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{20C52F70-22CA-498F-BAB4-6DEC1EC5279D}</ProjectGuid>
+    <ProjectGuid>{2EBB4ADA-65B2-4162-9618-5C5BC713B04A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Operator_Overloading</RootNamespace>
-    <AssemblyName>Operator Overloading</AssemblyName>
+    <RootNamespace>_7_Indexer</RootNamespace>
+    <AssemblyName>7 Indexer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,9 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Fahrenheit.cs" />
-    <Compile Include="Invoice.cs" />
-    <Compile Include="InvoiceDetailLine.cs" />
+    <Compile Include="MyClass.cs" />
+    <Compile Include="MyListBox.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
