@@ -72,9 +72,15 @@ namespace _17_Unmanaged_Code
       #endregion
 
       #region Pointer
-      Unsafe1App.MainMain();
-      Console.ReadKey();
+      //Unsafe1App.MainMain();
+      //Console.ReadKey();
       #endregion
+
+      #region Fixed
+      Fixed1App.CallFixed();
+      #endregion
+
+      Console.ReadKey();
     }
   }
 

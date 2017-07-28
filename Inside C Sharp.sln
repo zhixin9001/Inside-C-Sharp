@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator Overloading", "Operator Overloading\Operator Overloading.csproj", "{20C52F70-22CA-498F-BAB4-6DEC1EC5279D}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 Indexer", "7 Indexer\7 Indexer.csproj", "{2EBB4ADA-65B2-4162-9618-5C5BC713B04A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18 Assembly", "18 Assembly\18 Assembly.csproj", "{A0064C24-4724-4962-AB96-DE9A82144898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Egg", "New Egg\New Egg.csproj", "{C41E904B-ADE1-4CD3-87E6-F4602BD691C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +37,10 @@ Global
 		{2EBB4ADA-65B2-4162-9618-5C5BC713B04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EBB4ADA-65B2-4162-9618-5C5BC713B04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EBB4ADA-65B2-4162-9618-5C5BC713B04A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A0064C24-4724-4962-AB96-DE9A82144898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0064C24-4724-4962-AB96-DE9A82144898}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0064C24-4724-4962-AB96-DE9A82144898}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0064C24-4724-4962-AB96-DE9A82144898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41E904B-ADE1-4CD3-87E6-F4602BD691C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41E904B-ADE1-4CD3-87E6-F4602BD691C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41E904B-ADE1-4CD3-87E6-F4602BD691C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41E904B-ADE1-4CD3-87E6-F4602BD691C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
