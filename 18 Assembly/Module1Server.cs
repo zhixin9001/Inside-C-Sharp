@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _18_Assembly
 {
@@ -18,7 +14,6 @@ namespace _18_Assembly
       Assembly DllAssembly = Assembly.GetAssembly(typeof(Module1Server));
       Console.WriteLine("Module1Server.dll Assembly Information");
       Console.WriteLine("\t"+DllAssembly);
-
       Process p = Process.GetCurrentProcess();
       string AssemblyName = p.ProcessName + ".exe";
       Assembly ThisAssembly = Assembly.LoadFrom(AssemblyName);
